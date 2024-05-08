@@ -48,7 +48,7 @@
         <update_guid_history>1729614b7eded510ed0e015599d44104:-726027672,e719e14b58ded51066ff803a389c98ea:-816310874</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Most Recent Incidents">b82ef0701ba5f150e06d520b234bcb5a</sys_audit_delete>
+        <sys_audit_delete display_value="">b82ef0701ba5f150e06d520b234bcb5a</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>pavel.egorov</sys_created_by>
         <sys_created_on>2023-09-25 10:17:38</sys_created_on>

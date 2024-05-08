@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Veeam Event Log" max_length="40" name="x_tesgh_veeam_app_veeam_event_log" sizeclass="6211" type="collection">
+    <element label="Veeam Event Log" max_length="40" name="x_tesgh_veeam_app_veeam_event_log" type="collection">
         <element label="Configuration Item" max_length="32" name="configuration_item" reference="cmdb_ci" type="reference"/>
         <element choice="1" label="Entry Type" max_length="40" name="entry_type" type="string">
             <choice>

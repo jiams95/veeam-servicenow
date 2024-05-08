@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>asset_tag</element>
-            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="83376def1b295910e06d520b234bcb43">c3376def1b295910e06d520b234bcb45</list_id>
+            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="241fca259d0e8210c698910be8ff9c59">c3376def1b295910e06d520b234bcb45</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>model_category</element>
-            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="83376def1b295910e06d520b234bcb43">c3376def1b295910e06d520b234bcb45</list_id>
+            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="241fca259d0e8210c698910be8ff9c59">c3376def1b295910e06d520b234bcb45</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>model.display_name</element>
-            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="83376def1b295910e06d520b234bcb43">c3376def1b295910e06d520b234bcb45</list_id>
+            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="241fca259d0e8210c698910be8ff9c59">c3376def1b295910e06d520b234bcb45</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -48,7 +48,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assigned_to</element>
-            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="83376def1b295910e06d520b234bcb43">c3376def1b295910e06d520b234bcb45</list_id>
+            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="241fca259d0e8210c698910be8ff9c59">c3376def1b295910e06d520b234bcb45</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -63,7 +63,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>company</element>
-            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="83376def1b295910e06d520b234bcb43">c3376def1b295910e06d520b234bcb45</list_id>
+            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="241fca259d0e8210c698910be8ff9c59">c3376def1b295910e06d520b234bcb45</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -78,7 +78,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>install_status</element>
-            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="83376def1b295910e06d520b234bcb43">c3376def1b295910e06d520b234bcb45</list_id>
+            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="241fca259d0e8210c698910be8ff9c59">c3376def1b295910e06d520b234bcb45</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
@@ -93,7 +93,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>substatus</element>
-            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="83376def1b295910e06d520b234bcb43">c3376def1b295910e06d520b234bcb45</list_id>
+            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="241fca259d0e8210c698910be8ff9c59">c3376def1b295910e06d520b234bcb45</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
@@ -108,7 +108,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>cost</element>
-            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="83376def1b295910e06d520b234bcb43">c3376def1b295910e06d520b234bcb45</list_id>
+            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="241fca259d0e8210c698910be8ff9c59">c3376def1b295910e06d520b234bcb45</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
@@ -123,7 +123,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ci</element>
-            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="83376def1b295910e06d520b234bcb43">c3376def1b295910e06d520b234bcb45</list_id>
+            <list_id display_value="alm_asset" element="NULL" name="alm_asset" parent="NULL" relationship="NULL" sys_domain="global" view="241fca259d0e8210c698910be8ff9c59">c3376def1b295910e06d520b234bcb45</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
@@ -160,7 +160,7 @@
             <sys_updated_by>c.girbu</sys_updated_by>
             <sys_updated_on>2022-09-01 09:58:11</sys_updated_on>
             <sys_user/>
-            <view display_value="Rpt61127d25770230107384c087cc5a99ad" name="RPT61127d25770230107384c087cc5a99ad">83376def1b295910e06d520b234bcb43</view>
+            <view display_value="Rpt61127d25770230107384c087cc5a99ad" name="RPT61127d25770230107384c087cc5a99ad">241fca259d0e8210c698910be8ff9c59</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

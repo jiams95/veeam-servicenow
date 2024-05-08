@@ -65,7 +65,7 @@
         <update_guid_history>be8c2c6c9c73e5508c22d16702951156:1440693143,526aa4dd02f715103d87e883d9fde8b5:-742229896</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="My Veeam">4cfd70701ba5f150e06d520b234bcbb1</sys_audit_delete>
+        <sys_audit_delete display_value="">4cfd70701ba5f150e06d520b234bcbb1</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>pavel.egorov</sys_created_by>
         <sys_created_on>2023-09-25 10:16:45</sys_created_on>

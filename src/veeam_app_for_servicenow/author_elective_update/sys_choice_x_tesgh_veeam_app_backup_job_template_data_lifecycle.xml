@@ -25,7 +25,6 @@
             <language>en</language>
             <name>x_tesgh_veeam_app_backup_job_template</name>
             <sequence>100</sequence>
-            <synonyms/>
             <sys_created_by>c.girbu</sys_created_by>
             <sys_created_on>2022-10-18 07:21:14</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -45,7 +44,6 @@
             <language>en</language>
             <name>x_tesgh_veeam_app_backup_job_template</name>
             <sequence>200</sequence>
-            <synonyms/>
             <sys_created_by>c.girbu</sys_created_by>
             <sys_created_on>2022-10-18 07:21:17</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -65,7 +63,6 @@
             <language>en</language>
             <name>x_tesgh_veeam_app_backup_job_template</name>
             <sequence>300</sequence>
-            <synonyms/>
             <sys_created_by>c.girbu</sys_created_by>
             <sys_created_on>2022-10-18 07:21:18</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -85,7 +82,6 @@
             <language>en</language>
             <name>x_tesgh_veeam_app_backup_job_template</name>
             <sequence>400</sequence>
-            <synonyms/>
             <sys_created_by>c.girbu</sys_created_by>
             <sys_created_on>2022-10-18 07:21:24</sys_created_on>
             <sys_domain>global</sys_domain>

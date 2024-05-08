@@ -156,7 +156,7 @@
         <update_guid_history>4c69db7c459e1110f281a1cdf9e2e8ef:34399158,1395df78a79e111014b3857f91c0c616:1443832793,1b935ff4679e11106b4fc33fbefcdb2e:-705971875</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Retry Minutes">35128aab1b6e5d106e76da03b24bcb22</sys_audit_delete>
+        <sys_audit_delete display_value="">35128aab1b6e5d106e76da03b24bcb22</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>c.girbu</sys_created_by>
         <sys_created_on>2022-10-21 04:58:19</sys_created_on>
@@ -166,7 +166,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Retry Minutes</sys_name>
         <sys_package display_value="Veeam App" source="x_tesgh_veeam_app">d50434871b9dd91063fd6243604bcb7b</sys_package>
-        <sys_parent display_value="Request a backup of the Virtual Machine">b2f63a3f1ba99910e06d520b234bcb10</sys_parent>
+        <sys_parent display_value="Backup of Virtual Machine">b2f63a3f1ba99910e06d520b234bcb10</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Veeam App">d50434871b9dd91063fd6243604bcb7b</sys_scope>
         <sys_scope_delete display_value="">196d163efc0e453a987570f357412d24</sys_scope_delete>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="91c3b47e1b6b99506e76da03b24bcb4c" label="Veeam Connection" max_length="40" name="x_tesgh_veeam_app_veeam_connection" type="collection">
+    <element label="Veeam Connection" max_length="40" name="x_tesgh_veeam_app_veeam_connection" type="collection">
         <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Connection URL" mandatory="true" max_length="40" name="connection_url" type="string"/>
         <element label="Credential" mandatory="true" max_length="32" name="credential" reference="discovery_credentials" type="reference"/>

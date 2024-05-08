@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="ab376def1b295910e06d520b234bcba6">eb376def1b295910e06d520b234bcba7</list_id>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="741fca259d0e8210c698910be8ff9c64">eb376def1b295910e06d520b234bcba7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>short_description</element>
-            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="ab376def1b295910e06d520b234bcba6">eb376def1b295910e06d520b234bcba7</list_id>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="741fca259d0e8210c698910be8ff9c64">eb376def1b295910e06d520b234bcba7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state</element>
-            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="ab376def1b295910e06d520b234bcba6">eb376def1b295910e06d520b234bcba7</list_id>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="741fca259d0e8210c698910be8ff9c64">eb376def1b295910e06d520b234bcba7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -48,7 +48,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>substate</element>
-            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="ab376def1b295910e06d520b234bcba6">eb376def1b295910e06d520b234bcba7</list_id>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="741fca259d0e8210c698910be8ff9c64">eb376def1b295910e06d520b234bcba7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -63,7 +63,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>vendor</element>
-            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="ab376def1b295910e06d520b234bcba6">eb376def1b295910e06d520b234bcba7</list_id>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="741fca259d0e8210c698910be8ff9c64">eb376def1b295910e06d520b234bcba7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -78,7 +78,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>starts</element>
-            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="ab376def1b295910e06d520b234bcba6">eb376def1b295910e06d520b234bcba7</list_id>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="741fca259d0e8210c698910be8ff9c64">eb376def1b295910e06d520b234bcba7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
@@ -93,7 +93,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ends</element>
-            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="ab376def1b295910e06d520b234bcba6">eb376def1b295910e06d520b234bcba7</list_id>
+            <list_id display_value="ast_contract" element="NULL" name="ast_contract" parent="NULL" relationship="NULL" sys_domain="global" view="741fca259d0e8210c698910be8ff9c64">eb376def1b295910e06d520b234bcba7</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
@@ -130,7 +130,7 @@
             <sys_updated_by>c.girbu</sys_updated_by>
             <sys_updated_on>2022-09-01 09:58:13</sys_updated_on>
             <sys_user/>
-            <view display_value="Rptd6dff5ad770230107384c087cc5a991c" name="RPTd6dff5ad770230107384c087cc5a991c">ab376def1b295910e06d520b234bcba6</view>
+            <view display_value="Rptd6dff5ad770230107384c087cc5a991c" name="RPTd6dff5ad770230107384c087cc5a991c">741fca259d0e8210c698910be8ff9c64</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

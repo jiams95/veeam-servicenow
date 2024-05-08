@@ -182,7 +182,7 @@
         <update_guid_history>aebbcc9b0e7e1d1095c473cbd15d876d:-914016654</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Session Logs">578d78301ba5f150e06d520b234bcbfa</sys_audit_delete>
+        <sys_audit_delete display_value="">578d78301ba5f150e06d520b234bcbfa</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>pavel.egorov</sys_created_by>
         <sys_created_on>2023-09-25 10:15:04</sys_created_on>

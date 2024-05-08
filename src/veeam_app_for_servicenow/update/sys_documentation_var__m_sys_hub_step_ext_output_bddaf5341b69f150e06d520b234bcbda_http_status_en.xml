@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="http_status" label="HTTP Status" language="en" table="var__m_sys_hub_step_ext_output_bddaf5341b69f150e06d520b234bcbda">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>http_status</element>
+            <help/>
+            <hint/>
+            <label>HTTP Status</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_bddaf5341b69f150e06d520b234bcbda</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>pavel.egorov</sys_created_by>
+            <sys_created_on>2023-09-25 14:42:52</sys_created_on>
+            <sys_id>f9daf5341b69f150e06d520b234bcbee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>HTTP Status</sys_name>
+            <sys_package display_value="Veeam App" source="x_tesgh_veeam_app">d50434871b9dd91063fd6243604bcb7b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Veeam App">d50434871b9dd91063fd6243604bcb7b</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_bddaf5341b69f150e06d520b234bcbda_http_status_en</sys_update_name>
+            <sys_updated_by>pavel.egorov</sys_updated_by>
+            <sys_updated_on>2023-09-25 14:42:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

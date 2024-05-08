@@ -2,12 +2,12 @@
     <gsw_status_of_content action="INSERT_OR_UPDATE">
         <best_practice_allowed_ever>0</best_practice_allowed_ever>
         <checksum/>
-        <content display_value="Search Sources">668a7fd57761201022f7f4d26810614c</content>
+        <content display_value="">668a7fd57761201022f7f4d26810614c</content>
         <effective_weight>1</effective_weight>
         <more_info_visited>false</more_info_visited>
         <previous_status>0</previous_status>
         <progress>0</progress>
-        <related_log_entry display_value="2022-10-14 08:26:48">02331ad11ba695106e76da03b24bcb01</related_log_entry>
+        <related_log_entry display_value="14-10-2022 08:26:48">02331ad11ba695106e76da03b24bcb01</related_log_entry>
         <status>0</status>
         <sys_class_name>gsw_status_of_content</sys_class_name>
         <sys_created_by>c.girbu</sys_created_by>

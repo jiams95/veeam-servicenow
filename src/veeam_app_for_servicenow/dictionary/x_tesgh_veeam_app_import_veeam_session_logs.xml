@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Import Veeam Session Logs" max_length="40" name="x_tesgh_veeam_app_import_veeam_session_logs" sizeclass="0" type="collection">
+    <element extends="sys_import_set_row" label="Import Veeam Session Logs" max_length="40" name="x_tesgh_veeam_app_import_veeam_session_logs" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=description" label="description" max_length="40" name="u_description" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=id" label="id" max_length="40" name="u_id" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=sessionId" label="sessionId" max_length="40" name="u_sessionid" type="string"/>

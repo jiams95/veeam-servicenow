@@ -8,6 +8,7 @@
         <mugshots_cache_json/>
         <notes/>
         <order>1</order>
+        <snapshot/>
         <step_config display_value="Send REST Request - Outbound - Veeam Get Access Token">3dba7b391be4f510e06d520b234bcba9</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>pavel.egorov</sys_created_by>
@@ -22,7 +23,7 @@
         <sys_updated_by>pavel.egorov</sys_updated_by>
         <sys_updated_on>2023-08-10 11:33:46</sys_updated_on>
         <table/>
-        <test display_value="Veeam: VBR Connection Verification">a773407f1b94f1106e76da03b24bcb60</test>
+        <test display_value="Veeam Backup &amp; Replication Server Connection Verification">a773407f1b94f1106e76da03b24bcb60</test>
         <timeout/>
         <warning_message/>
     </sys_atf_step>

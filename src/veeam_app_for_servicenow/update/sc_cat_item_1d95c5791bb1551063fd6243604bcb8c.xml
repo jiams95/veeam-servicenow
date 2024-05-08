@@ -5,7 +5,6 @@
         <availability>on_desktop</availability>
         <billable>false</billable>
         <category display_value="Veeam App">9837fa3f1ba99910e06d520b234bcb2e</category>
-        <checked_out/>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan/>
@@ -15,12 +14,12 @@
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow display_value="Request new Backup Job">d3b509791bb1551063fd6243604bcbc8</flow_designer_flow>
-        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
         <icon/>
         <ignore_price>true</ignore_price>
         <image/>
+        <list_price>0</list_price>
         <location/>
         <mandatory_attachment>false</mandatory_attachment>
         <meta/>
@@ -43,11 +42,9 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
-        <owner display_value="Veeam App">da2520661bf3011063fd6243604bcba3</owner>
         <picture/>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=1d95c5791bb1551063fd6243604bcb8c&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
-        <published_ref/>
         <recurring_frequency/>
         <recurring_price>0</recurring_price>
         <request_method>submit</request_method>
@@ -55,11 +52,9 @@
         <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
-        <sc_template/>
         <short_description/>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
-        <state/>
         <sys_class_name>sc_cat_item</sys_class_name>
         <sys_created_by>c.girbu</sys_created_by>
         <sys_created_on>2022-09-08 07:18:00</sys_created_on>
@@ -72,9 +67,7 @@
         <sys_update_name>sc_cat_item_1d95c5791bb1551063fd6243604bcb8c</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-08-01 15:13:56</sys_updated_on>
-        <taxonomy_topic/>
         <template/>
-        <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>

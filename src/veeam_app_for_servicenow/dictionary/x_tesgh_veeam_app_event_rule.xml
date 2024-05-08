@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="30f39a9c1bced110e06d520b234bcb76" label="Event Rule" max_length="40" name="x_tesgh_veeam_app_event_rule" type="collection">
+    <element label="Event Rule" max_length="40" name="x_tesgh_veeam_app_event_rule" type="collection">
         <element label="Assignment Group" max_length="32" name="assignment_group" reference="sys_user_group" type="reference"/>
         <element label="Service" max_length="32" name="business_service" reference="cmdb_ci_service" type="reference"/>
         <element choice="1" choice_field="category" choice_table="incident" default="inquiry" label="Category" max_length="40" name="category" type="string">

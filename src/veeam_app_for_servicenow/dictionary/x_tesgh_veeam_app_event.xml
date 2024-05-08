@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="40cfde541b1d3510e06d520b234bcbdd" label="Application Events" max_length="40" name="x_tesgh_veeam_app_event" type="collection">
+    <element label="Application Events" max_length="40" name="x_tesgh_veeam_app_event" type="collection">
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Backup Job" max_length="32" name="backup_job" reference="x_tesgh_veeam_app_backup_job" type="reference"/>
         <element label="Description" max_length="250" name="description" type="string"/>
         <element choice="1" label="Event" mandatory="true" max_length="40" name="event" type="choice">

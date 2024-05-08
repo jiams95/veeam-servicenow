@@ -2,12 +2,12 @@
     <gsw_status_of_content action="INSERT_OR_UPDATE">
         <best_practice_allowed_ever>0</best_practice_allowed_ever>
         <checksum/>
-        <content display_value="Veeam Server Credentials">66d5b2101bee9110e06d520b234bcba5</content>
+        <content display_value="Veeam Backup &amp; Replication Server Connection Configuration">66d5b2101bee9110e06d520b234bcba5</content>
         <effective_weight>1</effective_weight>
         <more_info_visited>false</more_info_visited>
         <previous_status>0</previous_status>
         <progress>0</progress>
-        <related_log_entry display_value="2022-10-14 14:30:12">9166a39d1baa95106e76da03b24bcbb9</related_log_entry>
+        <related_log_entry display_value="14-10-2022 14:30:12">9166a39d1baa95106e76da03b24bcbb9</related_log_entry>
         <status>1</status>
         <sys_class_name>gsw_status_of_content</sys_class_name>
         <sys_created_by>c.girbu</sys_created_by>

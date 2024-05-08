@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
     <gsw_change_log action="INSERT_OR_UPDATE">
         <change_date>2022-10-14 06:26:49</change_date>
-        <changed_by display_value="Cristian Girbu">a8195b2d97b30150628271e3a253af47</changed_by>
-        <content display_value="Configure Ribbon Widgets">f8643b157761201022f7f4d2681061d8</content>
+        <changed_by display_value="">a8195b2d97b30150628271e3a253af47</changed_by>
+        <content display_value="">f8643b157761201022f7f4d2681061d8</content>
         <related_change_log_entry/>
         <related_task_entry/>
         <sys_class_name>gsw_change_log</sys_class_name>

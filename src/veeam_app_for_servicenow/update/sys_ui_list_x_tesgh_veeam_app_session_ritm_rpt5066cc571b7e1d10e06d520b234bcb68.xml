@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ss_end_date</element>
-            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="e066cc571b7e1d10e06d520b234bcb6d">a066cc571b7e1d10e06d520b234bcb6e</list_id>
+            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="9e1f0e259d0e8210c698910be8ff9caa">a066cc571b7e1d10e06d520b234bcb6e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ss_id</element>
-            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="e066cc571b7e1d10e06d520b234bcb6d">a066cc571b7e1d10e06d520b234bcb6e</list_id>
+            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="9e1f0e259d0e8210c698910be8ff9caa">a066cc571b7e1d10e06d520b234bcb6e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ss_name</element>
-            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="e066cc571b7e1d10e06d520b234bcb6d">a066cc571b7e1d10e06d520b234bcb6e</list_id>
+            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="9e1f0e259d0e8210c698910be8ff9caa">a066cc571b7e1d10e06d520b234bcb6e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -48,7 +48,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ss_number</element>
-            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="e066cc571b7e1d10e06d520b234bcb6d">a066cc571b7e1d10e06d520b234bcb6e</list_id>
+            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="9e1f0e259d0e8210c698910be8ff9caa">a066cc571b7e1d10e06d520b234bcb6e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -63,7 +63,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ss_progress_percent</element>
-            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="e066cc571b7e1d10e06d520b234bcb6d">a066cc571b7e1d10e06d520b234bcb6e</list_id>
+            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="9e1f0e259d0e8210c698910be8ff9caa">a066cc571b7e1d10e06d520b234bcb6e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -78,7 +78,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ss_result</element>
-            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="e066cc571b7e1d10e06d520b234bcb6d">a066cc571b7e1d10e06d520b234bcb6e</list_id>
+            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="9e1f0e259d0e8210c698910be8ff9caa">a066cc571b7e1d10e06d520b234bcb6e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
@@ -93,7 +93,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ss_result_message</element>
-            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="e066cc571b7e1d10e06d520b234bcb6d">a066cc571b7e1d10e06d520b234bcb6e</list_id>
+            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="9e1f0e259d0e8210c698910be8ff9caa">a066cc571b7e1d10e06d520b234bcb6e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
@@ -108,7 +108,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ss_result_status</element>
-            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="e066cc571b7e1d10e06d520b234bcb6d">a066cc571b7e1d10e06d520b234bcb6e</list_id>
+            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="9e1f0e259d0e8210c698910be8ff9caa">a066cc571b7e1d10e06d520b234bcb6e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
@@ -123,7 +123,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ss_ritm</element>
-            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="e066cc571b7e1d10e06d520b234bcb6d">a066cc571b7e1d10e06d520b234bcb6e</list_id>
+            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="9e1f0e259d0e8210c698910be8ff9caa">a066cc571b7e1d10e06d520b234bcb6e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
@@ -138,7 +138,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ss_start_date</element>
-            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="e066cc571b7e1d10e06d520b234bcb6d">a066cc571b7e1d10e06d520b234bcb6e</list_id>
+            <list_id display_value="x_tesgh_veeam_app_session_ritm" element="NULL" name="x_tesgh_veeam_app_session_ritm" parent="NULL" relationship="NULL" sys_domain="global" view="9e1f0e259d0e8210c698910be8ff9caa">a066cc571b7e1d10e06d520b234bcb6e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
@@ -175,7 +175,7 @@
             <sys_updated_by>c.girbu</sys_updated_by>
             <sys_updated_on>2022-11-01 11:35:01</sys_updated_on>
             <sys_user/>
-            <view display_value="Rpt5066cc571b7e1d10e06d520b234bcb68" name="RPT5066cc571b7e1d10e06d520b234bcb68">e066cc571b7e1d10e06d520b234bcb6d</view>
+            <view display_value="Rpt5066cc571b7e1d10e06d520b234bcb68" name="RPT5066cc571b7e1d10e06d520b234bcb68">9e1f0e259d0e8210c698910be8ff9caa</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

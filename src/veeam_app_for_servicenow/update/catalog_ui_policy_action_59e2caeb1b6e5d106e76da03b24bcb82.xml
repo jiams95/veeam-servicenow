@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="Request a backup of the Virtual Machine">b2f63a3f1ba99910e06d520b234bcb10</catalog_item>
+        <catalog_item display_value="Backup of Virtual Machine">b2f63a3f1ba99910e06d520b234bcb10</catalog_item>
         <catalog_variable>IO:5bd1ce2b1b6e5d106e76da03b24bcba8</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>
@@ -20,7 +20,7 @@
         <sys_updated_by>c.girbu</sys_updated_by>
         <sys_updated_on>2022-10-21 05:01:54</sys_updated_on>
         <table/>
-        <ui_policy display_value="If Occurence is Other">18e20aeb1b6e5d106e76da03b24bcb38</ui_policy>
+        <ui_policy display_value="If Occurence is Custom">18e20aeb1b6e5d106e76da03b24bcb38</ui_policy>
         <variable>occurence_notes</variable>
         <variable_set/>
         <visible>true</visible>

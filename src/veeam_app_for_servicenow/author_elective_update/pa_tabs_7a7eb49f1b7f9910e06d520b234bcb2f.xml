@@ -45,7 +45,7 @@
         <update_guid_history>ad907bd46fbfa55092ac701ee48fdce2:0,b67eb49f767f99106b88c9cc6fcf1431:-1100529743</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="My Veeam 2 - New Tab">32903fd41bbfa5506e76da03b24bcb3f</sys_audit_delete>
+        <sys_audit_delete display_value="">32903fd41bbfa5506e76da03b24bcb3f</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>pavel.egorov</sys_created_by>
         <sys_created_on>2023-06-29 10:10:32</sys_created_on>

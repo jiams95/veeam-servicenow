@@ -6,7 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>c.girbu</sys_created_by>
             <sys_created_on>2022-09-01 10:33:26</sys_created_on>
-            <sys_id>1b4f2da71b695910e06d520b234bcbb6</sys_id>
+            <sys_id>7dfd82ed9dca8210c698910be8ff9c6b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>entry_type</sys_name>
             <sys_package display_value="Veeam App" source="x_tesgh_veeam_app">d50434871b9dd91063fd6243604bcb7b</sys_package>
@@ -25,7 +25,6 @@
             <language>en</language>
             <name>x_tesgh_veeam_app_veeam_event_log</name>
             <sequence>100</sequence>
-            <synonyms/>
             <sys_created_by>c.girbu</sys_created_by>
             <sys_created_on>2022-09-01 10:33:26</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -45,7 +44,6 @@
             <language>en</language>
             <name>x_tesgh_veeam_app_veeam_event_log</name>
             <sequence>200</sequence>
-            <synonyms/>
             <sys_created_by>c.girbu</sys_created_by>
             <sys_created_on>2022-09-01 10:33:32</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -65,7 +63,6 @@
             <language>en</language>
             <name>x_tesgh_veeam_app_veeam_event_log</name>
             <sequence>300</sequence>
-            <synonyms/>
             <sys_created_by>c.girbu</sys_created_by>
             <sys_created_on>2022-09-01 10:33:37</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -85,7 +82,6 @@
             <language>en</language>
             <name>x_tesgh_veeam_app_veeam_event_log</name>
             <sequence>400</sequence>
-            <synonyms/>
             <sys_created_by>c.girbu</sys_created_by>
             <sys_created_on>2022-09-01 10:33:52</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -105,7 +101,6 @@
             <language>en</language>
             <name>x_tesgh_veeam_app_veeam_event_log</name>
             <sequence>500</sequence>
-            <synonyms/>
             <sys_created_by>c.girbu</sys_created_by>
             <sys_created_on>2022-09-01 10:33:58</sys_created_on>
             <sys_domain>global</sys_domain>

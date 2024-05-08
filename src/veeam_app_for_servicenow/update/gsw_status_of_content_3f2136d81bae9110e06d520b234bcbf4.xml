@@ -2,12 +2,12 @@
     <gsw_status_of_content action="INSERT_OR_UPDATE">
         <best_practice_allowed_ever>0</best_practice_allowed_ever>
         <checksum/>
-        <content display_value="Veeam CMDB Configuration Items">b2bfee581bae9110e06d520b234bcb68</content>
+        <content display_value="Initial Data Upload">b2bfee581bae9110e06d520b234bcb68</content>
         <effective_weight>0</effective_weight>
         <more_info_visited>false</more_info_visited>
         <previous_status>0</previous_status>
         <progress>0</progress>
-        <related_log_entry display_value="2022-10-11 08:03:48">b721be981bae9110e06d520b234bcba3</related_log_entry>
+        <related_log_entry display_value="11-10-2022 08:03:48">b721be981bae9110e06d520b234bcba3</related_log_entry>
         <status>0</status>
         <sys_class_name>gsw_status_of_content</sys_class_name>
         <sys_created_by>c.girbu</sys_created_by>

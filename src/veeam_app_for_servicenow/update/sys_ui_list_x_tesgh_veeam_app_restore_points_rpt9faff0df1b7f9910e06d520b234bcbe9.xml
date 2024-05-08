@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="5baff4df1b7f9910e06d520b234bcb43">17aff4df1b7f9910e06d520b234bcb44</list_id>
+            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="c21f0e259d0e8210c698910be8ff9c87">17aff4df1b7f9910e06d520b234bcb44</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>backup_id</element>
-            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="5baff4df1b7f9910e06d520b234bcb43">17aff4df1b7f9910e06d520b234bcb44</list_id>
+            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="c21f0e259d0e8210c698910be8ff9c87">17aff4df1b7f9910e06d520b234bcb44</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>creation_time</element>
-            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="5baff4df1b7f9910e06d520b234bcb43">17aff4df1b7f9910e06d520b234bcb44</list_id>
+            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="c21f0e259d0e8210c698910be8ff9c87">17aff4df1b7f9910e06d520b234bcb44</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -48,7 +48,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>id</element>
-            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="5baff4df1b7f9910e06d520b234bcb43">17aff4df1b7f9910e06d520b234bcb44</list_id>
+            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="c21f0e259d0e8210c698910be8ff9c87">17aff4df1b7f9910e06d520b234bcb44</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -63,7 +63,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>platform_id</element>
-            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="5baff4df1b7f9910e06d520b234bcb43">17aff4df1b7f9910e06d520b234bcb44</list_id>
+            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="c21f0e259d0e8210c698910be8ff9c87">17aff4df1b7f9910e06d520b234bcb44</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -78,7 +78,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>platform_name</element>
-            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="5baff4df1b7f9910e06d520b234bcb43">17aff4df1b7f9910e06d520b234bcb44</list_id>
+            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="c21f0e259d0e8210c698910be8ff9c87">17aff4df1b7f9910e06d520b234bcb44</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
@@ -93,7 +93,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>backup_job</element>
-            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="5baff4df1b7f9910e06d520b234bcb43">17aff4df1b7f9910e06d520b234bcb44</list_id>
+            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="c21f0e259d0e8210c698910be8ff9c87">17aff4df1b7f9910e06d520b234bcb44</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
@@ -108,7 +108,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>backup_job_template</element>
-            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="5baff4df1b7f9910e06d520b234bcb43">17aff4df1b7f9910e06d520b234bcb44</list_id>
+            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="c21f0e259d0e8210c698910be8ff9c87">17aff4df1b7f9910e06d520b234bcb44</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
@@ -123,7 +123,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>virtual_machines</element>
-            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="5baff4df1b7f9910e06d520b234bcb43">17aff4df1b7f9910e06d520b234bcb44</list_id>
+            <list_id display_value="x_tesgh_veeam_app_restore_points" element="NULL" name="x_tesgh_veeam_app_restore_points" parent="NULL" relationship="NULL" sys_domain="global" view="c21f0e259d0e8210c698910be8ff9c87">17aff4df1b7f9910e06d520b234bcb44</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
@@ -160,7 +160,7 @@
             <sys_updated_by>c.girbu</sys_updated_by>
             <sys_updated_on>2022-12-21 08:48:08</sys_updated_on>
             <sys_user/>
-            <view display_value="Rpt9faff0df1b7f9910e06d520b234bcbe9" name="RPT9faff0df1b7f9910e06d520b234bcbe9">5baff4df1b7f9910e06d520b234bcb43</view>
+            <view display_value="Rpt9faff0df1b7f9910e06d520b234bcbe9" name="RPT9faff0df1b7f9910e06d520b234bcbe9">c21f0e259d0e8210c698910be8ff9c87</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

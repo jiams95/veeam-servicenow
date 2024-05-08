@@ -11,6 +11,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>pavel.egorov</sys_created_by>
             <sys_created_on>2023-09-12 18:40:27</sys_created_on>
+            <sys_id>ef0e8aed9dca8210c698910be8ff9c69</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Event</sys_name>
             <sys_package display_value="Veeam App" source="x_tesgh_veeam_app">d50434871b9dd91063fd6243604bcb7b</sys_package>

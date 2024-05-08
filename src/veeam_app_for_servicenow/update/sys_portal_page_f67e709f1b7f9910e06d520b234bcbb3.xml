@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2023-05-10 09:11:37">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2024-05-08 16:52:18">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -38,7 +38,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 2022-12-21 09:49:30">9bff30df1b7f9910e06d520b234bcb6b</portal_section>
+                        <portal_section display_value="Created 21-12-2022 09:49:30">9bff30df1b7f9910e06d520b234bcb6b</portal_section>
                         <sys_created_by>c.girbu</sys_created_by>
                         <sys_created_on>2022-12-21 08:49:30</sys_created_on>
                         <sys_id>1bff30df1b7f9910e06d520b234bcb6c</sys_id>
@@ -49,7 +49,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2022-12-21 09:49:30">9bff30df1b7f9910e06d520b234bcb6b</portal_section>
+                        <portal_section display_value="Created 21-12-2022 09:49:30">9bff30df1b7f9910e06d520b234bcb6b</portal_section>
                         <sys_created_by>c.girbu</sys_created_by>
                         <sys_created_on>2022-12-21 08:49:30</sys_created_on>
                         <sys_id>1fff30df1b7f9910e06d520b234bcb6b</sys_id>
@@ -60,7 +60,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 2022-12-21 09:49:30">9bff30df1b7f9910e06d520b234bcb6b</portal_section>
+                        <portal_section display_value="Created 21-12-2022 09:49:30">9bff30df1b7f9910e06d520b234bcb6b</portal_section>
                         <sys_created_by>c.girbu</sys_created_by>
                         <sys_created_on>2022-12-21 08:49:30</sys_created_on>
                         <sys_id>53ff30df1b7f9910e06d520b234bcb6d</sys_id>
@@ -71,7 +71,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_publish</name>
-                        <portal_section display_value="Created 2022-12-21 09:49:30">9bff30df1b7f9910e06d520b234bcb6b</portal_section>
+                        <portal_section display_value="Created 21-12-2022 09:49:30">9bff30df1b7f9910e06d520b234bcb6b</portal_section>
                         <sys_created_by>c.girbu</sys_created_by>
                         <sys_created_on>2022-12-21 08:49:30</sys_created_on>
                         <sys_id>57ff30df1b7f9910e06d520b234bcb6c</sys_id>
@@ -82,7 +82,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2022-12-21 09:49:30">9bff30df1b7f9910e06d520b234bcb6b</portal_section>
+                        <portal_section display_value="Created 21-12-2022 09:49:30">9bff30df1b7f9910e06d520b234bcb6b</portal_section>
                         <sys_created_by>c.girbu</sys_created_by>
                         <sys_created_on>2022-12-21 08:49:30</sys_created_on>
                         <sys_id>93ff30df1b7f9910e06d520b234bcb6c</sys_id>
@@ -93,7 +93,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2022-12-21 09:49:30">9bff30df1b7f9910e06d520b234bcb6b</portal_section>
+                        <portal_section display_value="Created 21-12-2022 09:49:30">9bff30df1b7f9910e06d520b234bcb6b</portal_section>
                         <sys_created_by>c.girbu</sys_created_by>
                         <sys_created_on>2022-12-21 08:49:30</sys_created_on>
                         <sys_id>dbff30df1b7f9910e06d520b234bcb6c</sys_id>
@@ -118,7 +118,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2022-12-21 09:43:38">9dae749f1b7f9910e06d520b234bcbb6</portal_section>
+                        <portal_section display_value="Created 21-12-2022 09:43:38">9dae749f1b7f9910e06d520b234bcbb6</portal_section>
                         <sys_created_by>c.girbu</sys_created_by>
                         <sys_created_on>2022-12-21 08:43:38</sys_created_on>
                         <sys_id>29ae749f1b7f9910e06d520b234bcbb8</sys_id>
@@ -129,7 +129,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2022-12-21 09:43:38">9dae749f1b7f9910e06d520b234bcbb6</portal_section>
+                        <portal_section display_value="Created 21-12-2022 09:43:38">9dae749f1b7f9910e06d520b234bcbb6</portal_section>
                         <sys_created_by>c.girbu</sys_created_by>
                         <sys_created_on>2022-12-21 08:43:38</sys_created_on>
                         <sys_id>65ae749f1b7f9910e06d520b234bcbb8</sys_id>
@@ -140,7 +140,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2022-12-21 09:43:38">9dae749f1b7f9910e06d520b234bcbb6</portal_section>
+                        <portal_section display_value="Created 21-12-2022 09:43:38">9dae749f1b7f9910e06d520b234bcbb6</portal_section>
                         <sys_created_by>c.girbu</sys_created_by>
                         <sys_created_on>2022-12-21 08:43:38</sys_created_on>
                         <sys_id>95ae749f1b7f9910e06d520b234bcbb7</sys_id>
@@ -151,7 +151,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2022-12-21 09:43:38">9dae749f1b7f9910e06d520b234bcbb6</portal_section>
+                        <portal_section display_value="Created 21-12-2022 09:43:38">9dae749f1b7f9910e06d520b234bcbb6</portal_section>
                         <sys_created_by>c.girbu</sys_created_by>
                         <sys_created_on>2022-12-21 08:43:38</sys_created_on>
                         <sys_id>a1ae749f1b7f9910e06d520b234bcbb8</sys_id>
@@ -162,7 +162,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2022-12-21 09:43:38">9dae749f1b7f9910e06d520b234bcbb6</portal_section>
+                        <portal_section display_value="Created 21-12-2022 09:43:38">9dae749f1b7f9910e06d520b234bcbb6</portal_section>
                         <sys_created_by>c.girbu</sys_created_by>
                         <sys_created_on>2022-12-21 08:43:38</sys_created_on>
                         <sys_id>e9ae749f1b7f9910e06d520b234bcbb8</sys_id>

@@ -2,7 +2,7 @@
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="PA Veeam Homepage - New Tab">d7c13aee937131109d0b398efaba10a9</grid_canvas>
         <height>10</height>
-        <portal_widget display_value="Created 2023-10-13 08:28:30">7de1faee937131109d0b398efaba10a4</portal_widget>
+        <portal_widget display_value="">7de1faee937131109d0b398efaba10a4</portal_widget>
         <posx>4</posx>
         <posy>0</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>

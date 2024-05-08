@@ -183,7 +183,7 @@
         <update_guid_history>e8f8214b8bded5101775e881ddcd9a76:-884194216</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Most Recent Incidents">783ef4701ba5f150e06d520b234bcb89</sys_audit_delete>
+        <sys_audit_delete display_value="">783ef4701ba5f150e06d520b234bcb89</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>pavel.egorov</sys_created_by>
         <sys_created_on>2023-09-25 10:17:55</sys_created_on>
@@ -193,7 +193,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Most Recent Incidents</sys_name>
         <sys_package display_value="Veeam App" source="x_tesgh_veeam_app">d50434871b9dd91063fd6243604bcb7b</sys_package>
-        <sys_parent display_value="Incident">375f58da1b14011063fd6243604bcb97</sys_parent>
+        <sys_parent display_value="">375f58da1b14011063fd6243604bcb97</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Veeam App">d50434871b9dd91063fd6243604bcb7b</sys_scope>
         <sys_scope_delete display_value="">196d163efc0e453a987570f357412d24</sys_scope_delete>

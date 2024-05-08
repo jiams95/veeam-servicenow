@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_tesgh_veeam_app_job_mapping" element="NULL" name="x_tesgh_veeam_app_job_mapping" parent="NULL" relationship="NULL" sys_domain="global" view="8b9b90521b10011063fd6243604bcbb7">188b2ba11b469110e06d520b234bcb29</list_id>
+            <list_id display_value="x_tesgh_veeam_app_job_mapping" element="NULL" name="x_tesgh_veeam_app_job_mapping" parent="NULL" relationship="NULL" sys_domain="global" view="cc0c726370231010c6989c3169572a46">188b2ba11b469110e06d520b234bcb29</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -40,7 +40,7 @@
             <sys_updated_by>c.girbu</sys_updated_by>
             <sys_updated_on>2022-09-20 10:59:37</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">8b9b90521b10011063fd6243604bcbb7</view>
+            <view display_value="Reference List" name="sys_ref_list">cc0c726370231010c6989c3169572a46</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

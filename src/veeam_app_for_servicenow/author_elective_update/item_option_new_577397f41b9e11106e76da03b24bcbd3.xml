@@ -156,7 +156,7 @@
         <update_guid_history>7759db7cce9e1110e19e06728199cfe6:-1604239584,4b95df78469e11103693622479803704:-124326089,13735ff4459e1110ae3db50e704635f2:1530477440</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Retry">4e128aab1b6e5d106e76da03b24bcb42</sys_audit_delete>
+        <sys_audit_delete display_value="">4e128aab1b6e5d106e76da03b24bcb42</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>c.girbu</sys_created_by>
         <sys_created_on>2022-10-21 04:58:19</sys_created_on>
@@ -166,7 +166,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Retry</sys_name>
         <sys_package display_value="Veeam App" source="x_tesgh_veeam_app">d50434871b9dd91063fd6243604bcb7b</sys_package>
-        <sys_parent display_value="Request a backup of the Virtual Machine">b2f63a3f1ba99910e06d520b234bcb10</sys_parent>
+        <sys_parent display_value="Backup of Virtual Machine">b2f63a3f1ba99910e06d520b234bcb10</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Veeam App">d50434871b9dd91063fd6243604bcb7b</sys_scope>
         <sys_scope_delete display_value="">196d163efc0e453a987570f357412d24</sys_scope_delete>

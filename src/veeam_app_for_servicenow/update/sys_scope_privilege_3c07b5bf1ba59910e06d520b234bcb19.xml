@@ -16,7 +16,7 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2022-09-02 05:45:36</sys_updated_on>
         <target_name>x_tesgh_veeam_veeam_event_logs</target_name>
-        <target_scope display_value="Veeam">2f491331973f0150628271e3a253af9d</target_scope>
+        <target_scope display_value="">2f491331973f0150628271e3a253af9d</target_scope>
         <target_type>sys_db_object</target_type>
     </sys_scope_privilege>
 </record_update>

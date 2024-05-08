@@ -46,7 +46,7 @@
         <update_guid_history>06d580323ce699109985d9aa288ae5f3:-1470411258,2bc50cfe12a699100f4ac3f02e2a3176:-1425862400</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Days">965f3eca1bfcbd106e76da03b24bcbfc</sys_audit_delete>
+        <sys_audit_delete display_value="">965f3eca1bfcbd106e76da03b24bcbfc</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>pavel.egorov</sys_created_by>
         <sys_created_on>2023-08-23 10:07:29</sys_created_on>

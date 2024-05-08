@@ -4,7 +4,7 @@
         <application display_value="Veeam">4630b52b1b695910e06d520b234bcb6c</application>
         <assessment/>
         <device_type/>
-        <filter table="incident">caller_id=da2520661bf3011063fd6243604bcba3^EQ<item display_table="sys_user" display_value="Veeam App" endquery="false" field="caller_id" goto="false" newquery="false" operator="=" or="false" value="da2520661bf3011063fd6243604bcba3"/>
+        <filter table="incident">caller_id=da2520661bf3011063fd6243604bcba3^EQ<item endquery="false" field="caller_id" goto="false" newquery="false" operator="=" or="false" value="da2520661bf3011063fd6243604bcba3"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint/>

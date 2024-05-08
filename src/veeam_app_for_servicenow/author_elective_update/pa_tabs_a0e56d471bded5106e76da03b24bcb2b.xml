@@ -45,7 +45,7 @@
         <update_guid_history>0a4f662e5f71311073d96937dd0ae003:0,ce4f6eeac97131105553b9b9e39aa027:0,b69b2262c87131107160b7c2dc6e1df7:249449821</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Veeam App Overview - New Tab">8a4f662e937131109d0b398efaba1012</sys_audit_delete>
+        <sys_audit_delete display_value="">8a4f662e937131109d0b398efaba1012</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>pavel.egorov</sys_created_by>
         <sys_created_on>2023-10-13 15:17:03</sys_created_on>

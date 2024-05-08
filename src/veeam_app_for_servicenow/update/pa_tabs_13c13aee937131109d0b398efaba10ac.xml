@@ -2,7 +2,7 @@
     <pa_tabs action="INSERT_OR_UPDATE">
         <canvas_page display_value="PA Veeam Homepage - New Tab">d7c13aee937131109d0b398efaba10a9</canvas_page>
         <name>Veeam Homepage - New Tab</name>
-        <page display_value="PA Veeam Homepage - New Tab">5bc13aee937131109d0b398efaba10a8</page>
+        <page display_value="">5bc13aee937131109d0b398efaba10a8</page>
         <sys_class_name>pa_tabs</sys_class_name>
         <sys_created_by>pavel.egorov</sys_created_by>
         <sys_created_on>2023-10-13 15:28:02</sys_created_on>

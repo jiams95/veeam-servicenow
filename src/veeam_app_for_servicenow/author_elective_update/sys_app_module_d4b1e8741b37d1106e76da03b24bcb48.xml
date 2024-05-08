@@ -65,7 +65,7 @@
         <update_guid_history>20b1e8740437d1108484eef43c06ae4b:-899688174</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Requests">2a626cb41b37d1106e76da03b24bcb11</sys_audit_delete>
+        <sys_audit_delete display_value="">2a626cb41b37d1106e76da03b24bcb11</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>c.girbu</sys_created_by>
         <sys_created_on>2022-12-13 12:15:29</sys_created_on>

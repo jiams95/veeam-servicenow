@@ -156,7 +156,7 @@
         <update_guid_history>89fc694f2eded51043ec7a1fd06b5565:768560117,aadce54fc0ded510e85e0a2c71b7e152:1037164786</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Included VMs">d60da94f1bded5106e76da03b24bcb92</sys_audit_delete>
+        <sys_audit_delete display_value="">d60da94f1bded5106e76da03b24bcb92</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>c.girbu</sys_created_by>
         <sys_created_on>2022-10-07 03:53:39</sys_created_on>

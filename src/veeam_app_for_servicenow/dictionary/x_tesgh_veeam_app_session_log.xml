@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="45535e5c1bced110e06d520b234bcb70" label="Session Log" max_length="40" name="x_tesgh_veeam_app_session_log" type="collection">
+    <element label="Session Log" max_length="40" name="x_tesgh_veeam_app_session_log" type="collection">
         <element label="Description" max_length="200" name="description" type="string"/>
         <element label="End Date" max_length="40" name="end_date" type="string"/>
         <element label="ID" max_length="100" name="id" type="string"/>
@@ -10,13 +10,13 @@
         <element label="Status" max_length="100" name="status" type="string"/>
         <element label="Title" max_length="200" name="title" type="string"/>
         <index name="index">
-            <element name="id"/>
-        </index>
-        <index name="index2">
             <element name="ritm"/>
         </index>
-        <index name="index3">
+        <index name="index2">
             <element name="session"/>
+        </index>
+        <index name="index3">
+            <element name="id"/>
         </index>
     </element>
 </database>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="Import Backup Objects" max_length="40" name="x_tesgh_veeam_app_import_backup_objects" sizeclass="0" type="collection">
+    <element extends="sys_import_set_row" label="Import Backup Objects" max_length="40" name="x_tesgh_veeam_app_import_backup_objects" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=id" label="id" max_length="40" name="u_id" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="40" name="u_name" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=objectId" label="objectId" max_length="40" name="u_objectid" type="string"/>

@@ -156,7 +156,7 @@
         <update_guid_history>4c691f7c839e11107a50c5ae7aaa2d02:-359708962,a2e5d7b8329e1110998edc057a9a9b19:134365577,dad553b8b99e1110de52235ede5cd4d1:434516842</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Included VMs">8a128aab1b6e5d106e76da03b24bcb56</sys_audit_delete>
+        <sys_audit_delete display_value="">8a128aab1b6e5d106e76da03b24bcb56</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>c.girbu</sys_created_by>
         <sys_created_on>2022-10-21 04:58:19</sys_created_on>
@@ -166,7 +166,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Included VMs</sys_name>
         <sys_package display_value="Veeam App" source="x_tesgh_veeam_app">d50434871b9dd91063fd6243604bcb7b</sys_package>
-        <sys_parent display_value="Request a backup of the Virtual Machine">b2f63a3f1ba99910e06d520b234bcb10</sys_parent>
+        <sys_parent display_value="Backup of Virtual Machine">b2f63a3f1ba99910e06d520b234bcb10</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Veeam App">d50434871b9dd91063fd6243604bcb7b</sys_scope>
         <sys_scope_delete display_value="">196d163efc0e453a987570f357412d24</sys_scope_delete>

@@ -29,7 +29,7 @@
         <reverted_from/>
         <source>453438871b9dd91063fd6243604bcb55</source>
         <source_table>sys_update_set</source_table>
-        <state>current</state>
+        <state>previous</state>
         <sys_created_by>c.girbu</sys_created_by>
         <sys_created_on>2022-11-04 12:16:29</sys_created_on>
         <sys_id>05ace3801b031150e06d520b234bcb29</sys_id>

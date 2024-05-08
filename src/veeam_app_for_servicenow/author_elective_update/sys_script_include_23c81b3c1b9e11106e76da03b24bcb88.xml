@@ -99,7 +99,7 @@ VeeamUtil.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
 });]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;c.girbu&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-09-30 11:58:31&lt;/sys_created_on&gt;&lt;sys_id&gt;23c81b3c1b9e11106e76da03b24bcb88&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;VeeamUtil&lt;/sys_name&gt;&lt;sys_package display_value="Veeam App" source="x_tesgh_veeam_app"&gt;d50434871b9dd91063fd6243604bcb7b&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="Veeam App"&gt;d50434871b9dd91063fd6243604bcb7b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_23c81b3c1b9e11106e76da03b24bcb88&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;pavel.egorov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-06-28 10:53:13&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
         <payload_hash>-191115117</payload_hash>
         <record_name>VeeamUtil</record_name>
-        <reverted_from display_value="sys_script_include_23c81b3c1b9e11106e76da03b24bcb88">0ec07a801b37a550e06d520b234bcb89</reverted_from>
+        <reverted_from display_value="">0ec07a801b37a550e06d520b234bcb89</reverted_from>
         <source>ce14f4771b6b25506e76da03b24bcb34</source>
         <source_table>sys_update_set</source_table>
         <state>previous</state>

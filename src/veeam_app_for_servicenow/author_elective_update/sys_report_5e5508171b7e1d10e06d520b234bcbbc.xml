@@ -182,7 +182,7 @@
         <update_guid_history>1655cc175b7e1d10e61ad4202278ff95:111582752</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="My Backup Requests">940d3cfc1b65f150e06d520b234bcbf9</sys_audit_delete>
+        <sys_audit_delete display_value="">940d3cfc1b65f150e06d520b234bcbf9</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>pavel.egorov</sys_created_by>
         <sys_created_on>2023-09-25 10:12:41</sys_created_on>

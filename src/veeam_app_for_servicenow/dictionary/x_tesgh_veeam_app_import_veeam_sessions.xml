@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="a369b0239371311094a1398efaba1034" extends="sys_import_set_row" label="Import Veeam Sessions" max_length="40" name="x_tesgh_veeam_app_import_veeam_sessions" type="collection">
+    <element extends="sys_import_set_row" label="Import Veeam Sessions" max_length="40" name="x_tesgh_veeam_app_import_veeam_sessions" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=activityId" label="activityId" max_length="40" name="u_activityid" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=creationTime" label="creationTime" max_length="40" name="u_creationtime" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=endTime" label="endTime" max_length="40" name="u_endtime" type="string"/>

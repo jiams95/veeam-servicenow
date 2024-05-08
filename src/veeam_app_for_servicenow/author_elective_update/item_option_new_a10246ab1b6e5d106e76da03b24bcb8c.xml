@@ -156,7 +156,7 @@
         <update_guid_history>17328eab0c6e5d10a26a784c226da963:-1929422712,fe328eab206e5d103221dbd66f01c539:-1730384030,06328eabf66e5d105011c7753fdcd122:-1929422712,25024aab746e5d105baf9c6fb47ff722:963854623</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Retention Details">200053261bc5fd506e76da03b24bcb67</sys_audit_delete>
+        <sys_audit_delete display_value="">200053261bc5fd506e76da03b24bcb67</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>pavel.egorov</sys_created_by>
         <sys_created_on>2023-09-06 10:52:55</sys_created_on>

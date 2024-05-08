@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
     <gsw_change_log action="INSERT_OR_UPDATE">
         <change_date>2022-09-22 10:28:23</change_date>
-        <changed_by display_value="Cristian Girbu">a8195b2d97b30150628271e3a253af47</changed_by>
+        <changed_by display_value="">a8195b2d97b30150628271e3a253af47</changed_by>
         <content display_value="View related tasks">9c4eed1025913200964f48ca4b89e898</content>
         <related_change_log_entry/>
         <related_task_entry/>

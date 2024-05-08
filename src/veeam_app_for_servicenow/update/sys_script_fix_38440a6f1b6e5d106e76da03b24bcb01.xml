@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
     <sys_script_fix action="INSERT_OR_UPDATE">
+        <active>false</active>
         <before>false</before>
         <description/>
+        <flush_cache>false</flush_cache>
         <name>Load initial Virtual Machines for Veeam</name>
         <record_for_rollback>true</record_for_rollback>
+        <run_once>false</run_once>
         <script><![CDATA[var vmwareInstanceGr = new GlideRecord('cmdb_ci_vmware_instance');
 vmwareInstanceGr.addEncodedQuery('object_idISNOTEMPTY');
 vmwareInstanceGr.query();

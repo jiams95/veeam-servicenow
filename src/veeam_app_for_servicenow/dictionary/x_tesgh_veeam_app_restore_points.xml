@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Restore Points" max_length="40" name="x_tesgh_veeam_app_restore_points" sizeclass="72" type="collection">
+    <element label="Restore Points" max_length="40" name="x_tesgh_veeam_app_restore_points" type="collection">
         <element label="Backup ID" max_length="100" name="backup_id" type="string"/>
         <element label="Backup Job" max_length="32" name="backup_job" reference="x_tesgh_veeam_app_backup_job" type="reference"/>
         <element label="Backup Job Template" max_length="32" name="backup_job_template" reference="x_tesgh_veeam_app_backup_job_template" type="reference"/>

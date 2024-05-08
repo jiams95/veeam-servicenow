@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
     <sys_ux_macroponent action="INSERT_OR_UPDATE">
         <associated_types/>
-        <category>page</category>
         <component_dependencies/>
         <composition>[ ]</composition>
-        <da_relay_models/>
         <data>[ ]</data>
-        <dispatched_events/>
-        <extends display_value="Dashboard Template">33f0d274b7321010f1feb81cde11a969</extends>
-        <handled_events/>
+        <events/>
+        <extends display_value="">33f0d274b7321010f1feb81cde11a969</extends>
         <interactions/>
-        <interfaces/>
-        <internal_event_mappings>{ }</internal_event_mappings>
         <layout/>
         <macroponent_dependencies/>
         <name>Veeam App Overview</name>
         <props>[ ]</props>
-        <required_translations>[ ]</required_translations>
         <root_component/>
         <root_component_config/>
-        <root_component_definition/>
         <schema_version>1.0.0</schema_version>
-        <state_properties>[ ]</state_properties>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>c.girbu</sys_created_by>
         <sys_created_on>2022-10-14 06:31:40</sys_created_on>

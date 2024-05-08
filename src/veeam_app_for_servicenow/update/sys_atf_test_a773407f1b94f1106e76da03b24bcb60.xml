@@ -4,7 +4,6 @@
         <copied_from/>
         <description>Verify connections to active Veeam Backup &amp; Replication servers</description>
         <enable_parameterized_testing>false</enable_parameterized_testing>
-        <fail_on_server_error>true</fail_on_server_error>
         <name>Veeam Backup &amp; Replication Server Connection Verification</name>
         <parameters/>
         <remember/>

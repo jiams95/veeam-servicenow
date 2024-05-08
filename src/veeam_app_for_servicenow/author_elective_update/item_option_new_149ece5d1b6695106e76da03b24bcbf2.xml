@@ -156,7 +156,7 @@
         <update_guid_history>30ae869d6566951081e30cbc979266ab:-23766326,549e069d56669510c7cfc508b6fe86fc:1643197831</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Template Information">13b875211bfc3d106e76da03b24bcbd4</sys_audit_delete>
+        <sys_audit_delete display_value="">13b875211bfc3d106e76da03b24bcbd4</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>pavel.egorov</sys_created_by>
         <sys_created_on>2023-08-21 15:42:01</sys_created_on>

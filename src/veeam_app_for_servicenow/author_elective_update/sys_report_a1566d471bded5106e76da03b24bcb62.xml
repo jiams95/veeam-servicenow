@@ -183,7 +183,7 @@
         <update_guid_history>d18a298b39ded510fb6ab621be15cae7:1600071616,215625877bded510f325e1f3c7eb5553:353301760</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="VM Backup Status (24 hours)">ae0ef0701ba5f150e06d520b234bcbb9</sys_audit_delete>
+        <sys_audit_delete display_value="">ae0ef0701ba5f150e06d520b234bcbb9</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>pavel.egorov</sys_created_by>
         <sys_created_on>2023-09-25 10:17:13</sys_created_on>
@@ -193,7 +193,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>VM Backup Status (24 hours)</sys_name>
         <sys_package display_value="Veeam App" source="x_tesgh_veeam_app">d50434871b9dd91063fd6243604bcb7b</sys_package>
-        <sys_parent display_value="Session">fa421a1c1bced110e06d520b234bcbb7</sys_parent>
+        <sys_parent display_value="">fa421a1c1bced110e06d520b234bcbb7</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Veeam App">d50434871b9dd91063fd6243604bcb7b</sys_scope>
         <sys_scope_delete display_value="">196d163efc0e453a987570f357412d24</sys_scope_delete>

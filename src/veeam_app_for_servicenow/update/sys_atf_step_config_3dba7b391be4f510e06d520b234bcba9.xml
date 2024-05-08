@@ -136,7 +136,7 @@
         <sys_updated_by>pavel.egorov</sys_updated_by>
         <sys_updated_on>2023-10-11 10:07:32</sys_updated_on>
         <template_reminder>Send REST Request - Outbound - Veeam Get Access Token</template_reminder>
-        <type display_value="Test Step" name="sys_atf_step">db116c9e1b54011063fd6243604bcbe4</type>
+        <type display_value="Test Step" name="sys_atf_step">90ef47e770671010c6989c3169572af8</type>
         <wizard_redirect/>
     </sys_atf_step_config>
     <sys_translated_text action="delete_multiple" query="documentkey=3dba7b391be4f510e06d520b234bcba9"/>

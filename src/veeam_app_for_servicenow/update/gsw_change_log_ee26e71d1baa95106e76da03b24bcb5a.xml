@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
     <gsw_change_log action="INSERT_OR_UPDATE">
         <change_date>2022-10-14 12:29:13</change_date>
-        <changed_by display_value="Cristian Girbu">a8195b2d97b30150628271e3a253af47</changed_by>
+        <changed_by display_value="">a8195b2d97b30150628271e3a253af47</changed_by>
         <content display_value="MID Server Configuration">db9e6ed41bae9110e06d520b234bcb51</content>
         <related_change_log_entry/>
         <related_task_entry/>

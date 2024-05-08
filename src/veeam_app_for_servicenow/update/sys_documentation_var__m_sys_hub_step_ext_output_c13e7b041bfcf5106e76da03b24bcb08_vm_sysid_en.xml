@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="vm_sysid" label="VM SysID" language="en" table="var__m_sys_hub_step_ext_output_c13e7b041bfcf5106e76da03b24bcb08">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>vm_sysid</element>
+            <help/>
+            <hint/>
+            <label>VM SysID</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_c13e7b041bfcf5106e76da03b24bcb08</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>pavel.egorov</sys_created_by>
+            <sys_created_on>2023-08-17 09:34:15</sys_created_on>
+            <sys_id>c53ebf041bfcf5106e76da03b24bcba1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>VM SysID</sys_name>
+            <sys_package display_value="Veeam App" source="x_tesgh_veeam_app">d50434871b9dd91063fd6243604bcb7b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Veeam App">d50434871b9dd91063fd6243604bcb7b</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_c13e7b041bfcf5106e76da03b24bcb08_vm_sysid_en</sys_update_name>
+            <sys_updated_by>pavel.egorov</sys_updated_by>
+            <sys_updated_on>2023-08-17 09:34:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

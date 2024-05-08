@@ -182,7 +182,7 @@
         <update_guid_history>97aff4dfc47f99100d86b4b5e4d23342:2067979366</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Restore Points">7beb2f901bbfa5506e76da03b24bcb17</sys_audit_delete>
+        <sys_audit_delete display_value="">7beb2f901bbfa5506e76da03b24bcb17</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>pavel.egorov</sys_created_by>
         <sys_created_on>2023-06-29 09:50:07</sys_created_on>
@@ -192,7 +192,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Restore Points</sys_name>
         <sys_package display_value="Veeam App" source="x_tesgh_veeam_app">d50434871b9dd91063fd6243604bcb7b</sys_package>
-        <sys_parent display_value="Restore Points">67019fb51bbe1910e06d520b234bcb0e</sys_parent>
+        <sys_parent display_value="">67019fb51bbe1910e06d520b234bcb0e</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Veeam App">d50434871b9dd91063fd6243604bcb7b</sys_scope>
         <sys_scope_delete display_value="">196d163efc0e453a987570f357412d24</sys_scope_delete>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="Request a new Backup Job Template">f6fb86d91b6695106e76da03b24bcb22</catalog_item>
+        <catalog_item display_value="New Backup Job Template">f6fb86d91b6695106e76da03b24bcb22</catalog_item>
         <catalog_variable>IO:f86700b21be69910e06d520b234bcb58</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>
@@ -20,7 +20,7 @@
         <sys_updated_by>c.girbu</sys_updated_by>
         <sys_updated_on>2022-10-18 12:07:10</sys_updated_on>
         <table/>
-        <ui_policy display_value="Ocurrence">a3670c721be69910e06d520b234bcb12</ui_policy>
+        <ui_policy display_value="If Occurence is Custom">a3670c721be69910e06d520b234bcb12</ui_policy>
         <variable>ocurrence_notes</variable>
         <variable_set/>
         <visible>true</visible>

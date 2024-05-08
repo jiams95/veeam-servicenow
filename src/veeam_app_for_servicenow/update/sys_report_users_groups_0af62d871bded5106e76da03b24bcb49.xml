@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id/>
-        <report_id display_value="VM Job History">82f62d871bded5106e76da03b24bcb49</report_id>
+        <report_id display_value="VM Backup Status (Last 14 Days)">82f62d871bded5106e76da03b24bcb49</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>c.girbu</sys_created_by>
         <sys_created_on>2022-10-07 03:27:09</sys_created_on>
@@ -14,6 +14,6 @@
         <sys_update_name>sys_report_users_groups_0af62d871bded5106e76da03b24bcb49</sys_update_name>
         <sys_updated_by>c.girbu</sys_updated_by>
         <sys_updated_on>2022-10-07 03:27:09</sys_updated_on>
-        <user_id display_value="Cristian Girbu">a8195b2d97b30150628271e3a253af47</user_id>
+        <user_id display_value="">a8195b2d97b30150628271e3a253af47</user_id>
     </sys_report_users_groups>
 </record_update>

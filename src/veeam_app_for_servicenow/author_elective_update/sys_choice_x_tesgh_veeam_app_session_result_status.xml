@@ -6,6 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>c.girbu</sys_created_by>
             <sys_created_on>2022-09-30 11:03:18</sys_created_on>
+            <sys_id>d74fc6659d0e8210c698910be8ff9c9d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>result_status</sys_name>
             <sys_package display_value="Veeam App" source="x_tesgh_veeam_app">d50434871b9dd91063fd6243604bcb7b</sys_package>
@@ -24,11 +25,11 @@
             <language>en</language>
             <name>x_tesgh_veeam_app_session</name>
             <sequence>10</sequence>
-            <synonyms/>
             <sys_created_by>c.girbu</sys_created_by>
             <sys_created_on>2022-09-30 11:03:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>174fc6659d0e8210c698910be8ff9c9e</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>pavel.egorov</sys_updated_by>
             <sys_updated_on>2023-10-12 14:27:36</sys_updated_on>
@@ -43,11 +44,11 @@
             <language>en</language>
             <name>x_tesgh_veeam_app_session</name>
             <sequence>20</sequence>
-            <synonyms/>
             <sys_created_by>c.girbu</sys_created_by>
             <sys_created_on>2022-09-30 11:03:23</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f4fc6659d0e8210c698910be8ff9c9f</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>pavel.egorov</sys_updated_by>
             <sys_updated_on>2023-10-12 14:27:37</sys_updated_on>
@@ -62,11 +63,11 @@
             <language>en</language>
             <name>x_tesgh_veeam_app_session</name>
             <sequence>30</sequence>
-            <synonyms/>
             <sys_created_by>veeam_server.integration_user</sys_created_by>
             <sys_created_on>2023-09-04 17:18:54</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>174fc6659d0e8210c698910be8ff9ca1</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>pavel.egorov</sys_updated_by>
             <sys_updated_on>2023-10-12 14:27:39</sys_updated_on>

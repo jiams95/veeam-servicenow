@@ -82,7 +82,7 @@
         <update_guid_history>2e45b52d0abc3d10e56c132d02ecabf4:-1689763226</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Weeks">5e5f36ca1bfcbd106e76da03b24bcbdc</sys_audit_delete>
+        <sys_audit_delete display_value="">5e5f36ca1bfcbd106e76da03b24bcbdc</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>pavel.egorov</sys_created_by>
         <sys_created_on>2023-08-23 10:07:28</sys_created_on>

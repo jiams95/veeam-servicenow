@@ -42,7 +42,7 @@
         <update_guid_history>4ad762b5ac3e1910b0a1df8b851501d6:-545886555</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_tesgh_veeam_app_st_restore_points.x_tesgh_veeam_app.restore_points_user">45011fb51bbe1910e06d520b234bcb89</sys_audit_delete>
+        <sys_audit_delete display_value="">45011fb51bbe1910e06d520b234bcb89</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>c.girbu</sys_created_by>
         <sys_created_on>2022-10-28 10:29:28</sys_created_on>

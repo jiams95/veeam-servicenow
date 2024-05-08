@@ -65,7 +65,7 @@
         <update_guid_history>d123da5c58ced110dfa85b52966ed48b:1753261370,506c0af7d929991087cc5d1aded78d5a:-1043771058</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Veeam Events (OLD)">349a1a541b021510e06d520b234bcb37</sys_audit_delete>
+        <sys_audit_delete display_value="">349a1a541b021510e06d520b234bcb37</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>c.girbu</sys_created_by>
         <sys_created_on>2022-09-16 07:53:38</sys_created_on>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="deleted_job_count" label="Deleted Job Count" language="en" table="var__m_sys_hub_step_ext_output_73142fd91b297550e06d520b234bcbb9">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>deleted_job_count</element>
+            <help/>
+            <hint/>
+            <label>Deleted Job Count</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_73142fd91b297550e06d520b234bcbb9</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>pavel.egorov</sys_created_by>
+            <sys_created_on>2023-09-27 11:39:48</sys_created_on>
+            <sys_id>77142fd91b297550e06d520b234bcbc6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Deleted Job Count</sys_name>
+            <sys_package display_value="Veeam App" source="x_tesgh_veeam_app">d50434871b9dd91063fd6243604bcb7b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Veeam App">d50434871b9dd91063fd6243604bcb7b</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_73142fd91b297550e06d520b234bcbb9_deleted_job_count_en</sys_update_name>
+            <sys_updated_by>pavel.egorov</sys_updated_by>
+            <sys_updated_on>2023-09-27 11:39:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

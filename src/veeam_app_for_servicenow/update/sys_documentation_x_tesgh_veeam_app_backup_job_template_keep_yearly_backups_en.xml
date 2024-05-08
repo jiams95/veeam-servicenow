@@ -11,6 +11,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>pavel.egorov</sys_created_by>
             <sys_created_on>2023-08-23 11:00:38</sys_created_on>
+            <sys_id>fa0e0aed9dca8210c698910be8ff9c92</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Keep yearly full backups</sys_name>
             <sys_package display_value="Veeam App" source="x_tesgh_veeam_app">d50434871b9dd91063fd6243604bcb7b</sys_package>
